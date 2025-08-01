@@ -1,27 +1,24 @@
-# Привет! 👋 Я Иван
+# Evgeny Abaev
 
-👨‍💻 Я разработчик, увлечённый созданием современных веб и десктопных приложений.
-
-- 🔭 Сейчас работаю над проектом: [NextWave Platform](https://nextwave.dev)
-- 🌱 Изучаю: DDD, Jetpack Compose, Flutter
-- 💬 Спрашивай меня про: Kotlin, Flutter, автоматизацию, API
-- 📫 Связаться со мной: ivan@nextwave.dev
-- ⚡ Факт: люблю структурированную документацию и чистый UI
+Software Developer focused on building reliable and scalable web and desktop systems. 
+Passionate about clean architecture, automation, and minimalist user interfaces.
 
 ---
 
-## 🛠️ Мои навыки
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+## Technologies
 
----
+- Kotlin / Jetpack Compose for Desktop  
+- Flutter / Dart  
+- Python / FastAPI  
+- PostgreSQL, Redis, Docker  
+- CI/CD: GitHub Actions, GitLab CI
 
-## 📊 GitHub Статистика
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ivanov-dev&show_icons=true&theme=tokyonight)
 
----
 
-## 🌐 Где меня найти
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-abaevevgenchik@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abaevevgenchik@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PolRublyator)
+
+
+
